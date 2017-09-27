@@ -1,3 +1,14 @@
-# Course Management System
-Clones each student's github repository, and automatically check the submission log.
+# Hebron: Course Management System for SIT22005 Programming II
+This program monitors the students' activities and check the submission log. 
+Therefore, any educators or any staff may easily manage the course works.
 
+## Components
+* Caleb
+	- Caleb initialize the student's github repository
+	- Caleb clones each student's repository
+* Joshua
+	- Joshua pulls the student's contributions.
+	- Joshua checks the commit log and move the log files to the assessment folder
+
+## How it works
+TBA
